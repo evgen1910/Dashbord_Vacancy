@@ -8,5 +8,5 @@
 - Datalens
 
 
-***Дополнительно***: [итоговый дашборд]([https://public.tableau.com/views/LinkedIn-2/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link](https://datalens.yandex/510zs91gewq4u?state=e95ed5ca436)https://datalens.yandex/510zs91gewq4u?state=e95ed5ca436)
+***Дополнительно***: [итоговый дашборд](https://datalens.yandex/510zs91gewq4u)
 
