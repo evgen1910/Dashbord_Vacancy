@@ -8,5 +8,5 @@
 - Datalens
 
 
-***Дополнительно***: [итоговый дашборд]([https://datalens.yandex/510zs91gewq4u](https://datalens.yandex/510zs91gewq4u?state=a881430d250)https://datalens.yandex/510zs91gewq4u?state=a881430d250)
+***Дополнительно***: [итоговый дашборд](https://datalens.yandex/510zs91gewq4u)
 
